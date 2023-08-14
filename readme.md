@@ -204,7 +204,7 @@ Elimina un cliente de la base de datos por su ID.
 Ejecuta la aplicación Flask con el siguiente comando:
 
 ```bash
-python app.py
+python app_token.py
 ```
 
 La API estará disponible en `http://localhost:5000`.
