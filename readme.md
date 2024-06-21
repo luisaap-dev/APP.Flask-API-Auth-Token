@@ -14,7 +14,7 @@ Esta es una API desarrollada en Python utilizando el framework Flask para la ges
 
 ## Instalación
 
-1. Clona este repositorio: `git clone https://github.com/tu_usuario/tu_repositorio.git`
+1. Clona este repositorio: `git clone https://github.com/luisaap-dev/APP.Flask-API-Auth-Token`
 2. Instala las dependencias: `pip install -r requirements.txt`
 3. Configura la base de datos en `config.py`.
 4. Ejecuta la aplicación: `python app.py`
